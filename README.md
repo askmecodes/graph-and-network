@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+### Graph and Network
 
-You can use the [editor on GitHub](https://github.com/askmecodes/graph-and-network/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/askmecodes/graph-and-network/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- What do you mean by graph and network?
+- What is difference between directed and undirected graph?
+- What are digraph and muligraph?
+- What are degree of each node and average degree of the network?
+- What do you mean by degree distribution?
+- What is adjacency matrix? Why real network are sparce?
+- What is complete network?
+- What are weighted network? Why do we create them?
+- What is a bipartite network?
+- What is path and distance in the network?
+- How do you calculate average path length?
+- What do you mean by connectedness?
+- What is clustering coefficient?
+- What do you mean by Random network?
+- How do you select degree distribution in random network?
+- Why is real network not Poisson?
+- What is difference between real network and random network in degree distribution?
+- Discuss the evolution of random network.
+- Why real networks are supercritical?
+- What do yu mean by small world phenomena? Why are Small Worlds Surprising?
+- What are World Wide Web (WWW) and Internet?
+- What do you mean by power laws and scale free networks?
+- What is universality in network theory?
+- What are hubs and what is meaning of scale free?
+- What do you mean by ultra small property?
+- What is the rold of degree exponent?
+- What are social networks?
+- What is biological network?
+- What do you mean by connectedness?
+- What is community and clique?
+- What is connectivity?
+- What is diameter of the network?
+- What is centrality of the network?
